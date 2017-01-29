@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/he/.vim'
-let g:netrw_dirhist_2='/home/he/.vim/bundle/vim-sensible'
-let g:netrw_dirhist_3='/etc'
-let g:netrw_dirhist_4='/etc/grub.d'
-let g:netrw_dirhist_5='/boot/grub'
-let g:netrw_dirhist_6='/usr/lib'
-let g:netrw_dirhist_7='/home/he/.ssh'
